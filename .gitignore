@@ -21,3 +21,12 @@
 ## Mac OS X metadata files:
 *.DS_Store
 
+## custom files
+*.run.xml
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.synctex.gz
+*.xdv
+personal/cv.pdf
